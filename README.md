@@ -1,5 +1,5 @@
 # Films-en-streaming.org
-## <https://film2streaming.net/>
+## <https://films-en-streaming.org/>
 
 - Public API
 -- Prochainement publié 
